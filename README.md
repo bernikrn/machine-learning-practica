@@ -1,1 +1,3 @@
-# machine-learning-practica
+# Practica Machine Learning
+
+## Bernardo Koron
